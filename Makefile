@@ -1,6 +1,6 @@
 NAME := my-echo
-REPOSITORY := Craftsman0549/$(NAME)
-TAG := 20240710
+REPOSITORY := craftsman0549/$(NAME)
+TAG := 20240711
 GOOS := windows
 GOARCH := amd64
 
