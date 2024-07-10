@@ -44,4 +44,4 @@ spec:
           service:
             name: my-echo
             port: 
-              number: 80
+              number: 1323
